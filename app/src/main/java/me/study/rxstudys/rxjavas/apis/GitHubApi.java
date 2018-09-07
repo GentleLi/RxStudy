@@ -1,9 +1,5 @@
 package me.study.rxstudys.rxjavas.apis;
 
-import java.util.List;
-
-import io.reactivex.Observable;
-import me.study.rxstudys.beans.Repo;
 import me.study.rxstudys.rxjavas.service.ReposService;
 import okhttp3.OkHttpClient;
 import retrofit2.Retrofit;
